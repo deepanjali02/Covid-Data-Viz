@@ -2,7 +2,7 @@
 Covid Data Exploration with SQL &amp; Visualization in Tableau 
 ### Data Visualization in Tableau 
 ![](https://github.com/deepanjali02/Covid-Data-Viz/blob/main/Covid%20Data%20viz%20on%20Tableau.png)
-[Tableau Dashboard](https://public.tableau.com/app/profile/sunny.gupta7668/viz/CovidDashboard_16412129578960/Dashboard1) 
+[Tableau Dashboard](https://public.tableau.com/app/profile/deepanjali.singh/viz/CovidDataDashboard_16410393666000/Dashboard1) 
 ### Data Analysis Using SQL
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types </br>
 
